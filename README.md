@@ -1,13 +1,35 @@
-
-![Capa do repositório do curso, contendo no canto superior esquerdo o símbolo do github com o texto /alura-cursos, e no direito o logo da alura. Abaixo possuímos o título React: componentes e JSX com o subtítulo aprendendo a construir componentes reutilizáveis. Por fim, no canto inferior direito, há o logo da escola de front-end.](https://imgur.com/n21Gypa.png)
-
+ `English`
 # CodeConnect
 
-Rede social para pessoas desenvolvedoras chamada CodeConnect para o curso de React: componentes e JSX.
+CodeConnect is a social network for developers, developed as a React project: components and JSX.
+
+## 🔨 Project Features
+
+In this project, the CodeConnect login page will be developed, containing an image, an email and password form with titles and texts, a button to enter the application, and links to remember password or register.
+
+## ✔️ Techniques and Technologies Used
+
+The techniques and technologies used for this are:
+
+- `React`: JavaScript library for building user interfaces.
+- `React-DOM`: Package that allows integration of React with the DOM tree.
+- `Babel`: Transpiler that converts modern JavaScript code into versions compatible with older browsers, and also allows the interpretation of JSX code.
+- `JSX`: A syntax extension for JavaScript used in React, which allows the writing of HTML/XML code in a declarative and integrated way within JavaScript.
+- `Componentization`: Design approach where the user interface is divided into reusable and independent components.
+- `Props`: Data passed from a parent component to a child component in React.
+- `useState`: React hook that allows adding state to functional components.
+- `Event Handling`: Action of responding to user interactions, such as clicks and key presses, in web applications.
+
+---
+
+ `Português`
+# CodeConnect
+
+Rede social para pessoas desenvolvedoras chamada CodeConnect para o projeto de React: componentes e JSX.
 
 ## 🔨 Funcionalidades do projeto
 
-Nesse curso será desenvolvido a página de login da CodeConnect, contendo uma imagem, um formulário de e-mail e senha com títulos e textos, um botão para entrar na aplicação, links para lembrar senha ou cadastrar.
+Nesse projeto será desenvolvido a página de login da CodeConnect, contendo uma imagem, um formulário de e-mail e senha com títulos e textos, um botão para entrar na aplicação, links para lembrar senha ou cadastrar.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -22,20 +44,3 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `useState`: Hook no React que permite adicionar estado a componentes funcionais.
 - `Manipulação de eventos`: Ação de responder a interações do usuário, como cliques e teclas pressionadas, em aplicações web.
 
-## 📁 Acesso ao projeto
-
-Você pode [acessar o código fonte do projeto inicial](https://github.com/MonicaHillman/3492-React-componentesi/tree/projeto-base) ou [baixá-lo](https://github.com/MonicaHillman/3492-React-componentes/archive/refs/heads/projeto-base.zip).
-
-## 🎨 Figma
-
-Você pode conferir o Figma da aplicação clicando [aqui](https://www.figma.com/file/SASyBm2k3IlqrO8qI1Otg1/CodeConnect-%7C-React%3A-Componentização-e-conceitos-básicos-(JSX)).
-
-## 🛠️ Abrir e rodar o projeto
-
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, na tela inicial da aplicação, vá em File / Arquivos e:
-
-- **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
-
-Você pode abrir diretamente o arquivo index.html no seu navegador ou usar uma extensão como o ``Live Server``.
